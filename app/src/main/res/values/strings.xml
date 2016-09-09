@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BasketBall Scores App</string>
+    <string name="score_text">0</string>
+    <string name="three_points">3 Points</string>
+    <string name="two_points">2 Points</string>
+    <string name="free_throw">Free Throw</string>
+    <string name="foul_point">Foul Point</string>
+    <string name="btn_reset">reset</string>
+    <string name="total_score">Total Result</string>
+</resources>
